@@ -1,4 +1,9 @@
-cryptography
-pandas
 jupyter
+notebook
+numpy
+pandas
+matplotlib
+requests
+scapy
 voila
+ipywidgets
