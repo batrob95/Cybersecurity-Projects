@@ -7,3 +7,4 @@ requests
 scapy
 voila
 ipywidgets
+scikit-learn
